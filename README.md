@@ -34,4 +34,4 @@ $ npm run generate
 ```
 
 ## Demo
-![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/ScreenShot2019-07-27at20.18.03.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc1.png)
