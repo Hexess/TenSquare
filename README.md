@@ -35,3 +35,14 @@ $ npm run generate
 
 ## Demo
 ![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc1.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc2.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc3.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc4.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc5.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc6.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc7.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc8.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc9.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc10.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc11.png)
+![image](https://github.com/Hexess/TenSquare/raw/master/intro-img/sc12.png)
