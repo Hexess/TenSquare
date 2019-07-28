@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # {{ name }}
 
 > {{ description }}
+=======
+# Ten Square
+
+> A social platform which integrates events, Q&A, discussion, social search and employment service.
+>>>>>>> 4b871317a081892f31240146822b5e39863fb511
 
 ## Build Setup
 
@@ -18,5 +24,8 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
+<<<<<<< HEAD
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+=======
+>>>>>>> 4b871317a081892f31240146822b5e39863fb511
