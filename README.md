@@ -2,6 +2,8 @@
 
 > A social platform which integrates events, Q&A, discussion, social search and employment service.
 
+## Prerequisite
+> Please make sure you 
 ## Build Setup
 
 ``` bash
